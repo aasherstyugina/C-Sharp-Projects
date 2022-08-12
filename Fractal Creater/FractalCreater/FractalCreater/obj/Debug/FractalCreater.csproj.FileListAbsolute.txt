@@ -1,0 +1,40 @@
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\bin\Debug\FractalCreater.exe.config
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\bin\Debug\FractalCreater.exe
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\bin\Debug\FractalCreater.pdb
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csprojAssemblyReference.cache
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\obj\Debug\FractalCreater.Form1.resources
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\obj\Debug\FractalCreater.Properties.Resources.resources
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csproj.GenerateResource.cache
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csproj.CoreCompileInputs.cache
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\obj\Debug\FractalCreater.exe
+C:\Users\misss\source\repos\FractalCreater\FractalCreater\obj\Debug\FractalCreater.pdb
+D:\учеба\прога\FractalCreater\FractalCreater\bin\Debug\FractalCreater.exe.config
+D:\учеба\прога\FractalCreater\FractalCreater\bin\Debug\FractalCreater.exe
+D:\учеба\прога\FractalCreater\FractalCreater\bin\Debug\FractalCreater.pdb
+D:\учеба\прога\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csprojAssemblyReference.cache
+D:\учеба\прога\FractalCreater\FractalCreater\obj\Debug\FractalCreater.Form1.resources
+D:\учеба\прога\FractalCreater\FractalCreater\obj\Debug\FractalCreater.Properties.Resources.resources
+D:\учеба\прога\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csproj.GenerateResource.cache
+D:\учеба\прога\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csproj.CoreCompileInputs.cache
+D:\учеба\прога\FractalCreater\FractalCreater\obj\Debug\FractalCreater.exe
+D:\учеба\прога\FractalCreater\FractalCreater\obj\Debug\FractalCreater.pdb
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\bin\Debug\FractalCreater.exe.config
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\bin\Debug\FractalCreater.exe
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\bin\Debug\FractalCreater.pdb
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csprojAssemblyReference.cache
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.Form1.resources
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.Properties.Resources.resources
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csproj.GenerateResource.cache
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csproj.CoreCompileInputs.cache
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.exe
+C:\Users\kisam\OneDrive\Рабочий стол\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.pdb
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\bin\Debug\FractalCreater.exe.config
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\bin\Debug\FractalCreater.exe
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\bin\Debug\FractalCreater.pdb
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csprojAssemblyReference.cache
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.Form1.resources
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.Properties.Resources.resources
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csproj.GenerateResource.cache
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.csproj.CoreCompileInputs.cache
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.exe
+C:\Users\misss\Downloads\FractalCreater\FractalCreater\FractalCreater\FractalCreater\obj\Debug\FractalCreater.pdb

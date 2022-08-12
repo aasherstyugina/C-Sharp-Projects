@@ -1,0 +1,17 @@
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\bin\Debug\netcoreapp3.1\NotepadPeerGrade.exe
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\bin\Debug\netcoreapp3.1\NotepadPeerGrade.deps.json
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\bin\Debug\netcoreapp3.1\NotepadPeerGrade.runtimeconfig.json
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\bin\Debug\netcoreapp3.1\NotepadPeerGrade.runtimeconfig.dev.json
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\bin\Debug\netcoreapp3.1\NotepadPeerGrade.dll
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\bin\Debug\netcoreapp3.1\NotepadPeerGrade.pdb
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.csprojAssemblyReference.cache
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadApp.Form1.resources
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.csproj.GenerateResource.cache
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.AssemblyInfoInputs.cache
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.AssemblyInfo.cs
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.csproj.CoreCompileInputs.cache
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.dll
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.pdb
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.genruntimeconfig.cache
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\bin\Debug\netcoreapp3.1\FastColoredTextBox.dll
+C:\Users\misss\OneDrive\Рабочий стол\NotepadPeerGrade\NotepadPeerGrade\obj\Debug\netcoreapp3.1\NotepadPeerGrade.csproj.CopyComplete

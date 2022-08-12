@@ -1,0 +1,15 @@
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\bin\Debug\Table.exe.config
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\bin\Debug\Table.exe
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\bin\Debug\Table.pdb
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\bin\Debug\NReco.Csv.dll
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\bin\Debug\NReco.Csv.xml
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.csprojAssemblyReference.cache
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.Form1.resources
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.Properties.Resources.resources
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.csproj.GenerateResource.cache
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.csproj.CopyComplete
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.exe
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.pdb
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.Form2.resources
+C:\Users\misss\OneDrive\Рабочий стол\Table\Table\obj\Debug\Table.Form3.resources

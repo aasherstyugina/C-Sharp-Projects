@@ -1,0 +1,16 @@
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\bin\Debug\BuyersAndOrders.exe.config
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\bin\Debug\BuyersAndOrders.exe
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\bin\Debug\BuyersAndOrders.pdb
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.csprojAssemblyReference.cache
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.AuthorizationForm.resources
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.Properties.Resources.resources
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.SignUpForm.resources
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.csproj.GenerateResource.cache
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.csproj.CoreCompileInputs.cache
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.exe
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.pdb
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.ClientApp.resources
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.SellerApp.resources
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.ChangeStatus.resources
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.PaidClientsReport.resources
+C:\Users\misss\OneDrive\Рабочий стол\BuyersAndOrders\BuyersAndOrders\obj\Debug\BuyersAndOrders.ProductReport.resources
